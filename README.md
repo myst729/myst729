@@ -4,5 +4,5 @@
 
 A nerdy web developer, also loves music, soccer, and other interesting things.
 
-- Read my [blog](https://myst729.github.io/) about people and things I care.
-- You could find me on [Weibo](https://weibo.com/myst729) and [StackOverflow](https://stackoverflow.com/users/1032492).
+- Visit my [blog](https://myst729.github.io/) about people and things I care.
+- Find me on [Weibo](https://weibo.com/myst729) and [StackOverflow](https://stackoverflow.com/users/1032492).
